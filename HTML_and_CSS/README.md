@@ -10,17 +10,22 @@ This project has acquired the necessary skills and knowledge to develop a homepa
 
 The project directory structure is as follows:
 
-Project/
-│
-├── index.html
-├── styles.css
-|── images1.png
-|── ...
-├── images/
-│ ├── image1.jpg
-│ ├── image2.jpg
-│ └── ...
+Project/<br />
+│<br />
+├── index.html<br />
+├── styles.css<br />
+|── images1.png<br />
+|── ...<br />
+├── images/<br />
+│ ├── image1.jpg<br />
+│ ├── image2.jpg<br />
+│ └── ...<br />
 
+## Image 1
+![Alt text](../HTML_and_CSS/littleLemon_H_C_1.png)
+<br />
+## Image 2 
+![Alt text](../HTML_and_CSS/littleLemon_H_C_2.png)
 
 ## How to View the Project
 
