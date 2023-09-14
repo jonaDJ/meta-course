@@ -1,0 +1,6 @@
+{
+  "apiUrl": "https://api.example.com",
+  "websiteUrl": "https://www.example.com",
+  "loginUrl": "https://www.example.com/login",
+  "profileUrl": "https://www.example.com/profile"
+}

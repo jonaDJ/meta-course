@@ -1,0 +1,23 @@
+/* Header container */
+.header {
+  position: fixed;
+  transition-property: transform;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+/* Container within the header */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* Styles for the navigation icons */
+.nav-icon {
+  padding: 0 20px; /* Adjust as needed */
+  text-decoration: none; /* Remove underlines from links */
+  color: white; /* Set link color */
+}

@@ -1,0 +1,18 @@
+{
+  "navColor": "#000000",
+  "backgroundColor": "#2A4365",
+  "textColor": "#FFFFFF",
+  "accentColor": "#FFFF00",
+  "headerFooterColor": "#1D3557",
+  "hoverHighlightColor": "#30475E",
+  "errorColor": "#FF0000",
+  "warningColor": "#FFA500",
+  "ctaColor": "#FFFF00",
+  "secondaryAccentColor": "#00FF00",
+  "neutralColor": "#CCCCCC",
+  "gradientStartColor": "#FF5733",
+  "gradientEndColor": "#FFD700",
+  "textHeadingColor": "#333333",
+  "linkColor": "#007BFF",
+  "successColor": "#00FF00"
+}

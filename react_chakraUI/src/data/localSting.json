@@ -1,0 +1,15 @@
+{
+  "buttonNames": {
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "commonNames": {
+    "welcomeMessage": "Welcome to My App",
+    "loadingText": "Loading...",
+    "errorText": "An error occurred."
+  },
+  "headerNames": {
+    "mainHeader": "My App",
+    "subHeader": "A React Application"
+  }
+}
