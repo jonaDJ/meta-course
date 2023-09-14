@@ -1,6 +1,10 @@
 # React Calculator
 This is a simple calculator app built using React that can perform the four basic mathematical operations: addition, subtraction, multiplication, and division.
 
+
+## Screenshots
+![Calculator Screenshot](../react_calculator/react_cal.png)
+
 ## Getting Started
 You can follow these steps to set up and run the calculator app on your local machine.
 1. Clone the Repository: git clone <repository_url>
@@ -40,10 +44,6 @@ The calculator interface consists of a display screen and a set of buttons for n
 - Use decimal points for floating-point numbers.
 - Clear the display and start new calculations.
 - Calculate and display results.
-
-## Screenshots
-
-![Calculator Screenshot](/screenshot.png)
 
 ## Built With
 
