@@ -23,23 +23,31 @@ Little Lemon restaurant faces two key challenges: the absence of an online reser
 - **Name**: Sheldon
 - **Age**: 29
 - **Occupation**: Physicist
+- 
+![persona Map](../figma_UX_UI/persona.png)
 
 ## Journey Map
 
 I have created a journey map to visualize Sarah's experience when using the "Reserve a Table" and "Food Menu" features on the Little Lemon restaurant website. The map highlights key touchpoints and emotions throughout her journey.
-
+![Journey Map](../figma_UX_UI/journeyMap.png)
 
 
 ## Wireframes
 
 Low-fidelity wireframes have been designed to outline the features and functionality of both the reservation and menu systems. These wireframes provide a clear representation of how users will interact with the features.
-
+![wirefranes Map](../figma_UX_UI/wireframes.png)
 
 
 ## High-Fidelity Prototype
 
 An interactive high-fidelity prototype has been developed, incorporating best design practices. The prototype includes interactive components such as buttons, navigation, and menu item selection. It links multiple screens together to demonstrate the reservation process and food menu exploration.
+![prototype Map](../figma_UX_UI/prototype.png)
 
+## Components- Calendar
+![Calendar Map](../figma_UX_UI/calendarComponent.png)
+
+## assets
+![assets Map](../figma_UX_UI/assets.png)
 
 
 ## How to Access Figma Designs
