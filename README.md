@@ -24,6 +24,3 @@ The project is divided into the following components:
 - React(Chakra UI)
 - Figma
 
-## Project Structure
-
-Describe the structure of your project's directory and how the code is organized. For example:
