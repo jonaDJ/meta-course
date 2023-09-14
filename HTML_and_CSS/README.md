@@ -11,12 +11,12 @@ This project has acquired the necessary skills and knowledge to develop a homepa
 The project directory structure is as follows:
 
 Project/<br />
-│<br />
-├── index.html<br />
-├── styles.css<br />
-|── images1.png<br />
-|── ...<br />
-├── images/<br />
+│ <br />
+│── index.html<br />
+│── styles.css<br />
+│── images1.png<br />
+│── ...<br />
+│── images/<br />
 │ ├── image1.jpg<br />
 │ ├── image2.jpg<br />
 │ └── ...<br />
