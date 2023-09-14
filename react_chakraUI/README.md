@@ -46,11 +46,15 @@ The landing section features an avatar picture and a short bio.
 
 - It provides a welcoming introduction to the portfolio.
 
+![Info Screenshot](info_section.png)
+
 ## Projects Section
 The projects section showcases my featured projects as cards in a grid fashion.
 
 - Each card displays project information, including an image, heading, and description.
 - These cards are implemented using Chakra UI components.
+
+![Project Screenshot](project_section.png)
 
 ## Contact Me Section
 The contact me section allows visitors to get in touch with me.
@@ -60,6 +64,8 @@ The contact me section allows visitors to get in touch with me.
 - The form submission is handled, and responses are displayed in an alert.
 - Upon successful submission, the alert shows the user's first name from the form.
 - The form is reset after a successful submission.
+
+![Contact Screenshot](contactMe_section.png)
 
 ## Bonus (Header Animation with React Router and `<Link>`)
 A header show-hide animation is implemented depending on the scroll direction. The header slides up and hides when scrolling down, and it slides down and becomes visible when scrolling up.
