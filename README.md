@@ -1,4 +1,4 @@
-# projects_FEE
+# META Frontend course
 
 *FYI, There is an individual README and screenshot in the individual project folders.*
 
